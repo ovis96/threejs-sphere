@@ -5,6 +5,8 @@ Courtesy of Bruno Simon of https://threejs-journey.xyz/
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
+## Demo
+https://ovis96.github.io/threejs-sphere/
 ``` bash
 # Install dependencies (only the first time)
 npm install
